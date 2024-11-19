@@ -1,0 +1,8 @@
+.card-wrapper {
+    width: 50%;
+}
+
+.slds-m-around_medium p{
+    color: rgb(13, 0, 255);
+    font-size: 40px;
+}
